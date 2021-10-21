@@ -12,6 +12,4 @@ Our team devised an innovative method of preventive dental care. The method incl
   - igem_core_half - one half of the main body, if you are intereseted in 3D printing use this model, print two and connect them
   - igem_spray - mockup of a spray head
 
-
-### Drawings directory contains schematics if the mentioned above models
-  
+### Drawings directory contains schematics of the mentioned above models
